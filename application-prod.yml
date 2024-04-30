@@ -9,3 +9,6 @@ eureka:
 
 my:
   property: prod
+spring:
+  application:
+    name: rod-app
